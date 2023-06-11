@@ -4,12 +4,12 @@
 
 **Proyecto final del grado superior de Administración de Sistemas Informáticos en Red**
 
-##Servidor DNS con Pi-hole
+## Servidor DNS con Pi-hole
 
 
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Pi-hole_vector_logo.svg/120px-Pi-hole_vector_logo.svg.png)
 
-###Manual de usuario
+### Manual de usuario
 Para ejecutar Pi-hole a través de un contenedor tenemos que crear un archivo 'docker-compose.yaml' con los siguientes parámetros:
 
 	version: "3"
